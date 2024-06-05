@@ -1,0 +1,4 @@
+{
+    "timestamp": "2024-06-04T21:33:26.600113",
+    "message": "Erro ao fazer a solicita\u00e7\u00e3o: 500 Server Error: Internal Server Error for url: https://third-api.meep.cloud/api/protheus/order/send"
+}
